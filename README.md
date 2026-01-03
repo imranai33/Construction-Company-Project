@@ -36,3 +36,5 @@ Create a real-world construction company website
 Practice frontend and backend integration
 Improve skills in React, Tailwind CSS, and Laravel API
 Use this project as a portfolio showcase
+<img width="1366" height="768" alt="Screenshot (289)" src="https://github.com/user-attachments/assets/d73fbc5e-a6e5-45b3-b504-0489dae0af96" />
+
